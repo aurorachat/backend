@@ -14,6 +14,14 @@ github.com/aurorachat/ws-sessions v0.0.2-0.20240812102809-5f5c9bb60ff3 h1:TZitpu
 github.com/aurorachat/ws-sessions v0.0.2-0.20240812102809-5f5c9bb60ff3/go.mod h1:hWm92WENirCT6ao/ncSFxd+sDQXjLHH6WvPkiplmcWY=
 github.com/aurorachat/ws-sessions v0.0.2-0.20240812103324-b97d40e346e8 h1:Sz8LGGLjjzAmrrKGW48VZXK2PdT2E7Sl9Pma+x+mImM=
 github.com/aurorachat/ws-sessions v0.0.2-0.20240812103324-b97d40e346e8/go.mod h1:hWm92WENirCT6ao/ncSFxd+sDQXjLHH6WvPkiplmcWY=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812162415-506266bc0eae h1:pAbL4Z360cP7+o0eRFLEP6Qhc+Fq2FPdfEJOPGIpHgo=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812162415-506266bc0eae/go.mod h1:hWm92WENirCT6ao/ncSFxd+sDQXjLHH6WvPkiplmcWY=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812164628-c5374ac6d5e8 h1:qAI7A6J2PyKDgF3S5RupeQs0V2LYaqsQvhw8yt5HMHw=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812164628-c5374ac6d5e8/go.mod h1:hWm92WENirCT6ao/ncSFxd+sDQXjLHH6WvPkiplmcWY=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812172543-0677d3f5ff54 h1:Bx6TgiHHW22gQA8AKYd/toU6vFlNGdvT4dKkWjGLUSI=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812172543-0677d3f5ff54/go.mod h1:hWm92WENirCT6ao/ncSFxd+sDQXjLHH6WvPkiplmcWY=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812172907-90e6c5e64592 h1:03SehK81wLAyRRw+NsTTo55+DvChi9zrLz1W3C8fnSY=
+github.com/aurorachat/ws-sessions v0.0.2-0.20240812172907-90e6c5e64592/go.mod h1:hWm92WENirCT6ao/ncSFxd+sDQXjLHH6WvPkiplmcWY=
 github.com/bytedance/sonic v1.12.1 h1:jWl5Qz1fy7X1ioY74WqO0KjAMtAGQs4sYnjiEBiyX24=
 github.com/bytedance/sonic v1.12.1/go.mod h1:B8Gt/XvtZ3Fqj+iSKMypzymZxw/FVwgIGKzMzT9r/rk=
 github.com/bytedance/sonic/loader v0.1.1/go.mod h1:ncP89zfokxS5LZrJxl5z0UJcsk4M4yY2JpfqGeCtNLU=

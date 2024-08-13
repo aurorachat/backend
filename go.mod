@@ -15,7 +15,7 @@ require (
 
 require (
 	github.com/aurorachat/jwt-tokens v0.0.4 // indirect
-	github.com/aurorachat/ws-sessions v0.0.2-0.20240812103324-b97d40e346e8 // indirect
+	github.com/aurorachat/ws-sessions v0.0.2-0.20240812172907-90e6c5e64592 // indirect
 	github.com/bytedance/sonic v1.12.1 // indirect
 	github.com/bytedance/sonic/loader v0.2.0 // indirect
 	github.com/cloudwego/base64x v0.1.4 // indirect
